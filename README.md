@@ -35,9 +35,8 @@ are available from Intesa Sanpaolo on reasonable request and after finding a pro
 
 <p align="center">
     <picture>
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/antotu/AntiFraud_QML/main/docs/_statics/Intesa_Sanpaolo_logo_logotype.png">
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/antotu/AntiFraud_QML/main/docs/_statics/Intesa_Sanpaolo_logo_logotype.png">
       <img src="https://raw.githubusercontent.com/antotu/AntiFraud_QML/main/docs/_statics/Intesa_Sanpaolo_logo_logotype.png" width="60%">
     </picture>
-  </a>
 </p>
 
