@@ -31,8 +31,8 @@ reup = bool(int(listArg[5]))
 
 
 #telegram settings
-TOKEN = "5906184775:AAEK6DUFalrsvIwzSxMwMMKAgJrDPiSniuA"
-chat_id = "735278356"
+TOKEN = ""
+chat_id = ""
 
 
 
