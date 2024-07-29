@@ -33,3 +33,11 @@ of Control and Computer Engineering at the Politecnico di Torino (http://hpc.pol
 Moreover, the authors would like to thank the Intesa Sanpaolo team of cybersecurity, anti-fraud and data analytic solutions for providing the real dataset employed in the analysis through an agreement between Politecnico di Torino and Intesa Sanpaolo. The datasets analyzed during the current study
 are available from Intesa Sanpaolo on reasonable request and after finding a proper agreement.
 
+<p align="center">
+    <picture>
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/antotu/AntiFraud_QML/main/docs/_statics/Intesa_Sanpaolo_logo.svg">
+      <img src="https://raw.githubusercontent.com/antotu/AntiFraud_QML/main/docs/_statics/Intesa_Sanpaolo_logo.svg" width="60%">
+    </picture>
+  </a>
+</p>
+
