@@ -32,3 +32,6 @@ The authors would like to thank the Intesa Sanpaolo Quantum Competence Center fo
 of Control and Computer Engineering at the Politecnico di Torino (http://hpc.polito.it) — for providing computational resources.
 Moreover, the authors would like to thank the Intesa Sanpaolo team of cybersecurity, anti-fraud and data analytic solutions for providing the real dataset employed in the analysis through an agreement between Politecnico di Torino and Intesa Sanpaolo. The datasets analyzed during the current study
 are available from Intesa Sanpaolo on reasonable request and after finding a proper agreement.
+
+## Data Availability 
+The datasets analyzed during the current study are available on reasonable request and after finding a proper agreement with Intesa SanPaolo.
