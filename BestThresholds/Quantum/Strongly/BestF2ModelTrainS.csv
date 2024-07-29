@@ -1,0 +1,8 @@
+,2,4,6,8
+1000,2_X_True,10_YXZ\_H_False,6_XZ_True,2_XYZ_False
+2000,2_YXZ\_H_True,2_XZY_False,10_YZ\_H_True,2_XZ_False
+4000,6_XZY_False,4_XZY_True,10_ZYX\_H_False,4_YZ_False
+6000,2_X_False,2_XZ_False,6_YX_False,2_YX_True
+8000,4_Y\_H_False,2_YZ_True,4_XZY_False,2_XZ_True
+10000,2_XY_True,4_XYZ_False,10_YX_False,6_ZY\_H_True
+20000,2_XZ_False,8_XY_True,8_Y_False,4_XY_False
