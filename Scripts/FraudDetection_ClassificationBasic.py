@@ -30,13 +30,9 @@ numLayers = int(listArg[4])
 reup = bool(int(listArg[5]))
 
 
-#telegram settings
+#telegram settings: Add your info
 TOKEN = ""
 chat_id = ""
-
-
-
-
 
 X_train = pd.read_csv(f"../ReducedDataset/Train_{numElements}_{numFeatures}.csv", header=None, index_col=False)
 X_test = pd.read_csv(f"../ReducedDataset/Test_{numElements}_{numFeatures}.csv", header=None, index_col=False)
